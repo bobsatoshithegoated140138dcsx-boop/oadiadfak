@@ -1,2 +1,2 @@
-# oadiadfak
-hahahaha
+# 引っ付き虫GUI!
+モバイル対応バージョンかもしれないから死ね
